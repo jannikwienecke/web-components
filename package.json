@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/wienecke.jannik@gmail.com.twindlitelement-l34xut0t",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sAuYEUmbUwxOPyCybcAm --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
